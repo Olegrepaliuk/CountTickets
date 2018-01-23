@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\CountAttendance\CountAttendance\bin\Debug\CountAttendance.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\CountAttendance\CountAttendance\bin\Debug\CountAttendance.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\CountAttendance\CountAttendance\bin\Debug\CountAttendance.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\CountAttendance\CountAttendance\obj\Debug\CountAttendance.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\CountAttendance\CountAttendance\obj\Debug\CountAttendance.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\CountAttendance\CountAttendance\obj\Debug\CountAttendance.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\CountAttendance\CountAttendance\obj\Debug\CountAttendance.csproj.CoreCompileInputs.cache
